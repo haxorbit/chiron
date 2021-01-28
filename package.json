@@ -279,7 +279,7 @@
     "concurrently": "^3.5.0",
     "coveralls": "2.13.1",
     "css-loader": "0.28.4",
-    "electron": "1.7.8",
+    "electron": "9.4.0",
     "electron-builder": "^19.37.1",
     "enzyme": "2.8.2",
     "eslint": "3.19.0",
